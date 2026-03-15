@@ -18,7 +18,7 @@
 ### 🚀 About Me
 
 - 💻 Full Stack Developer Junior specialized in **Next.js** and **React**
-- 🌍 Based in Miami, FL
+- 🌍 Based in Cuba
 - 🌱 Currently learning and building projects with **TypeScript** and **Node.js**
 - 📫 Reach me at **alejandrofrank464@gmail.com**
 - ⚡ Check out my portfolio → [alejandrofrank464.vercel.app](https://alejandrofrank464.vercel.app)
